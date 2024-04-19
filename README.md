@@ -1,4 +1,4 @@
-# Gusstimates
+Gusstimates
 Guesstimates are the Important Topic for a Data Analyst.
 Study Guesstimates can Improve a person's Critical Thinking ability. 
 Mastering the art of Guesstimation equips analyst and valuable skills to make informed critical decision in uncertian situation.
